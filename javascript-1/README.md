@@ -15,7 +15,7 @@ One of the biggest tools at the developer's disposal is the browser's built-in c
 
 ## Contributions
 
-If you see a problem or a typo, please fork, make the necessary changes, and create a pull request so we can review your changes and merge them into the master repo and branch.
+If you see a problem or a typo, please fork, make the necessary changes, and create a pull request so we 1can review your changes and merge them into the master repo and branch.
 
 ## Copyright
 
